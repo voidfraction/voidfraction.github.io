@@ -18,10 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: void fraction
+title: Totality hangover
 description: >- # this means to ignore newlines until "baseurl:"
-  An analysis of the traversed, the not yet traversed, and the presently being
-  traversed.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:

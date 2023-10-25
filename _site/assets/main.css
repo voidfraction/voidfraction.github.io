@@ -652,4 +652,16 @@ h1 {
   font-size: 31px;
 }
 
+p {
+  font-size: 18px;
+  text-align: justify;
+  line-height: 1.8;
+  margin-bottom: 30px;
+}
+
+hr {
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
 /*# sourceMappingURL=main.css.map */
