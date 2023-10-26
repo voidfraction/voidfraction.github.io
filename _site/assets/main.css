@@ -222,6 +222,11 @@ table td {
 }
 
 /* Custom CSS */
+@media (max-width: 1000px) {
+  .site-header, .page-content {
+    width: 90%;
+  }
+}
 /**
  * Site header
  */
