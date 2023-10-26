@@ -20,3 +20,9 @@ hr {
     margin-top: 50px;
     margin-bottom: 40px;
 }
+
+@media (max-width: 1500px) {
+    .site-header, .page-content {
+        width: 90%
+    }
+  }
