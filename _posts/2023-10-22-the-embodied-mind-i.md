@@ -1,9 +1,14 @@
 ---
 layout: post
-title:  "The Embodied Mind (I)"
+title:  "Embodiment (I)"
 ---
 
-[(Varela, Rosch, and Thompson, 1992)](https://mitpress.mit.edu/9780262720212/the-embodied-mind/)
+![Arteries](/assets/images/gray_arteries.jpg)
+<figcaption>Detail from Gray's Anatomy, 1918. </figcaption>
+
+---
+
+**Book**: [The Embodied Mind (Varela, Rosch, and Thompson, 1992)](https://mitpress.mit.edu/9780262720212/the-embodied-mind/)
 
 The mind is not an information processor. Chilean biologist Francisco Varela saw this clearly several decades ago. Reading *The Embodied Mind* was refreshing because I came to share Varela's clarity at times, but it also left me with a lot of questions. What follows is a mix of reflection and context.
 

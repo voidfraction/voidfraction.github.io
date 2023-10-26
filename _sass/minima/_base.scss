@@ -17,6 +17,11 @@ body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
   background-color: $background-color;
+  background-image: url("../assets/bg.jpg");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
