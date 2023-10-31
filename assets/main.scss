@@ -5,6 +5,14 @@
 
 /* Custom styles */
 
+// Page layout =================================================================
+
+.site-header, .page-content {
+    width: 60%;
+}
+
+// Text ========================================================================
+
 h1 {
     font-size: 31px;
 }
@@ -16,12 +24,16 @@ p {
     margin-bottom: 30px;
 }
 
+// Horizontal line =============================================================
+
 hr {
     margin-top: 50px;
     margin-bottom: 40px;
 }
 
-@media (max-width: 1500px) {
+// Mobile fixes ================================================================
+
+@media (max-width: 1000px ) or (orientation: portrait) {
     .site-header, .page-content {
         width: 90%
     }

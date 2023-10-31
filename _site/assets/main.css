@@ -222,11 +222,6 @@ table td {
 }
 
 /* Custom CSS */
-@media (max-width: 1000px) {
-  .site-header, .page-content {
-    width: 90%;
-  }
-}
 /**
  * Site header
  */
@@ -668,6 +663,10 @@ table td {
 }
 
 /* Custom styles */
+.site-header, .page-content {
+  width: 60%;
+}
+
 h1 {
   font-size: 31px;
 }
@@ -682,6 +681,12 @@ p {
 hr {
   margin-top: 50px;
   margin-bottom: 40px;
+}
+
+@media (max-width: 1000px) or (orientation: portrait) {
+  .site-header, .page-content {
+    width: 90%;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */
