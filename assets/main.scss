@@ -33,7 +33,13 @@ hr {
 
 // Mobile fixes ================================================================
 
-@media (max-width: 1000px ) or (orientation: portrait) {
+@media (orientation: portrait) {
+    .site-header, .page-content {
+        width: 90%
+    }
+  }
+
+@media (max-width: 1000px) {
     .site-header, .page-content {
         width: 90%
     }
