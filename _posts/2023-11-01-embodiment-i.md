@@ -2,13 +2,13 @@
 layout: post
 title:  "Embodiment (I)"
 ---
-
+<!-- 
 **Book**: [The Embodied Mind (Varela, Rosch, and Thompson, 1992)](https://mitpress.mit.edu/9780262720212/the-embodied-mind/)
 
 ![Arteries](/assets/images/gray_arteries.jpg)
-<figcaption>Detail from <i>Gray's Anatomy</i>, 1918. </figcaption>
+<figcaption>Detail from <i>Gray's Anatomy</i>, 1918. </figcaption> -->
 
-If the mind is not an abstract information processor, what is it? Reading this one was clarifying in some ways (the answer to the question is, of course, "embodied"), but it also left me with a lot of questions. I'll start with context on one of the three authors, Francisco Varela, and the historical moment that led to the book's writing.
+If the mind is not an abstract information processor, what is it? Reading The Embodied Mind was quite clarifying, but it also left me with a lot of questions. I'll start with context on one of the three authors, Francisco Varela, and the historical moment that led to the book's writing.
 
 Varela, born and raised in Chile, finished his PhD in biology at Harvard in 1970, studying *information processing* in the insect visual system. Days after Varela returned from Harvard, Salvador Allende was elected president of Chile as the leader of a broad left-wing political coalition. Varela was a staunch supporter of Allende and a prominent member of a milieu where new ideas for democratic control of the economy along scientific principles were being proposed and tested. The national economy, conceptually freed a little from the anonymous demands of "the market", was being re-understood and experimented with. While reckoning with this new world, Varela and mentor Humberto Maturana also went about the humble research program of defining life itself, a task that led them to the notion of **autopoiesis**[^1]. Even the most primitive living cell, at a high level of abstraction, is sort of like a national economy: a set of processes (chemical in the one, social in the other) unified by (i) reproducing one another as a whole through time and (ii) maintaining (or trying to maintain) the material conditions that allow for this reproduction. This was a promising line of thought.
 
@@ -18,11 +18,11 @@ To get to enactivism, we need to understand what it was a response to[^3], i.e. 
 
 This model was "wrong", as they all are, but it was undoubtedly useful. Given the right experimental constraints, this actually is what some mental processes are like. However, through its utility the model became ingrained for some scientists as the automatic, unquestioned image of what the mind *is*. This line of thinking quickly ran into a wall: we may be able to fully understand the reaction a heavily anesthetized animal has to some simple stimulus (a green circle, a loud tone) in these terms, but this tells us little about what the animal would do in any natural context. Even the decisionmaking of a fly evading a swatter (Varela's example) is far too complex to be understood through these means. Instead of the two-way behaviorist split between behavior and an unknowable mind, the cognitivists ran into a three-way split between behavior, a formal model of cognition, and the organism's actual experience of acting in the world.
 
-The authors' "enactive" approach responds to this impasse by rethinking the problem using concepts from the Buddhist tradition (among others). Varela understood the systematic practice of meditation (along with the relevant textual traditions) as a type of **first-person science**, with experience as its object. This was an insight that was new to me and felt like the central piece of the book. In the global history of intellectual exchange, this episode strikes me as particularly interesting: the threads of Tibetan Buddhist tradition, Marxist political action in Chile, European phenomenology[^5], and midcentury Harvard neuroscience are brought together in the figure of Francisco Varela. Although I'm still groping toward a sense of his true relevance today, it's clear he and his coauthors here made an honest attempt at synthesizing these threads. I'll leave it here for now but I intend to process the actual thought of the book a bit more eventually. Thank you for reading or scrolling to the end of my first post.
+The authors' "enactive" approach responds to this impasse by rethinking the problem using concepts from the Buddhist tradition. Varela understood the systematic practice of meditation (along with the relevant textual traditions) as a type of **first-person science**, with experience as its object. This was an insight that was new to me and felt like the central piece of the book. In the global history of intellectual exchange, this episode strikes me as particularly interesting: the threads of Tibetan Buddhist tradition, Marxist political action in Chile, European phenomenology[^5], and midcentury Harvard neuroscience are brought together in the figure of Francisco Varela. Although I'm still groping toward a sense of his true relevance today, it's clear he and his coauthors here made an honest attempt at synthesizing these threads. I'll leave it here for now but I intend to process the actual thought of the book a bit more eventually. Thank you for reading or scrolling to the end of my first post.
 
 ***
 
-[^1]: I want to look into the notion and his earlier writings in more depth at some point but I mention this here because I think the book is essentially an elaboration of this understanding of autopoietic systems.
+[^1]: I want to look into the notion and his earlier writings in more depth at some point but I mention this here because I think *The Embodied Mind* is essentially an elaboration of this understanding of autopoietic systems.
 
 [^2]: He was even briefly taught by Chögyam Trungpa, who also taught the likes of David Bowie and Joni Mitchell. Varela also went on to found the [Mind and Life Institute](https://www.mindandlife.org/about/#history) with the Dalai Lama, though what this collaboration really meant is still unclear to me.
 
