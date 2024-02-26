@@ -669,7 +669,8 @@ table td {
 
 /* Custom styles */
 .site-header, .page-content {
-  width: 50%;
+  width: 60%;
+  background-color: #efedbf;
 }
 
 h1 {
