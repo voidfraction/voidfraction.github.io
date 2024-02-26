@@ -118,7 +118,7 @@ blockquote {
   border-left: 4px solid #e8e8e8;
   padding-left: 15px;
   font-size: 18px;
-  letter-spacing: -1px;
+  letter-spacing: 0px;
   font-style: italic;
 }
 blockquote > :last-child {
@@ -682,6 +682,10 @@ p {
   text-align: justify;
   line-height: 1.8;
   margin-bottom: 30px;
+}
+
+blockquote {
+  font-style: normal;
 }
 
 hr {
