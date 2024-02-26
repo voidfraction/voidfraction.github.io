@@ -4,7 +4,7 @@ title: "?"
 permalink: /what/
 ---
 
-Hi! This is something like a reading journal. I'm a graduate student studying ecology and environmental modeling. In my free time I mostly read, and I try to follow my curiosity about the world quite generally. I'm thinking of making series of posts based on focal ideas that different texts illuminate in different ways. I'm not trying to summarize or review things, I mostly want to contextualize and maybe speculate a little. We'll see how it goes.
+Hi! This is something like a reading journal. I'm a graduate student studying ecology and environmental modeling. In my free time I mostly read and I want to keep track of some of that. I'm thinking of making series of posts based on focal ideas rather than texts. I'm not trying to summarize or review things, I mostly want to contextualize and maybe speculate a little. We'll see how it goes.
 
 I'm no expert on most things, feedback is welcome. You can email me: voidfraction [at] proton [dot] me.
 
