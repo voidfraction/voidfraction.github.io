@@ -3,7 +3,7 @@ layout: post
 title:  "embodiment (2)"
 ---
 
-[The Embodied Mind (Varela, Rosch, and Thompson, 1992)](https://mitpress.mit.edu/9780262720212/the-embodied-mind/)
+[The Embodied Mind (Varela, Rosch, and Thompson, 1992)](https://www.goodreads.com/book/show/243436.The_Embodied_Mind)
 
 [← embodiment (1)](https://voidfraction.github.io/2024/02/25/embodiment-i.html)
 

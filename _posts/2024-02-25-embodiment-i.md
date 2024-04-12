@@ -3,7 +3,7 @@ layout: post
 title:  "embodiment (1)"
 ---
 
-[The Embodied Mind (Varela, Rosch, and Thompson, 1992)](https://mitpress.mit.edu/9780262720212/the-embodied-mind/)
+[The Embodied Mind (Varela, Rosch, and Thompson, 1992)](https://www.goodreads.com/book/show/243436.The_Embodied_Mind)
 
 There's a contemporary viewpoint that the mind is like a computer: an information processor. I think this is a forgivable metaphor, but it's a very limited one. I've been interested in specific critiques of it and one concept I've seen a lot in that context is 'embodiment'. It's intuitive to think that the mind is unlike a computer precisely because it's inseparable from a living body. But this could be dismissed as a romantic idea; maybe all it's doing is equating 'mind' and 'life', which doesn't really illuminate anything. Is there a better path? *The Embodied Mind* hints at one, but the real reason I decided to read it was one of the three authors: Francisco Varela.
 
