@@ -4,7 +4,7 @@ title: "about"
 permalink: /what/
 ---
 
-I'm a graduate student studying ecology and environmental modeling. I also think anything I could do with that would be meaningless without political consciousness and an honest appreciation of history and culture. Essentially, I like reading, and this is an attempt to give that process some kind of shape.
+I'm a graduate student studying ecology and environmental modeling. I also think anything I could do with that would be meaningless without political consciousness and an honest appreciation of history and culture. Essentially, I like reading, and this is an attempt to give that process some kind of shape. :)
 
 Feedback always welcome. You can email me: voidfraction [at] proton [dot] me. 
 
