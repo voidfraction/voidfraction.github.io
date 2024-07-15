@@ -8,12 +8,12 @@
 // Page layout =================================================================
 
 .site-header, .page-content {
-    width: 60%;
+    width: 50%;
     background-color: #efedbf;
 }
 
 .site-header {
-    padding-top: 80px;
+    padding-top: 30px;
     padding-bottom: 60px;
 }
 
@@ -25,7 +25,7 @@ h1 {
 
 p {
     font-size: 18px;
-    text-align: justify;
+    text-align: left;
     line-height: 1.8;
     margin-bottom: 30px;
 }
@@ -45,11 +45,11 @@ hr {
 
 @media (orientation: portrait) {
     .site-header, .page-content {
-        width: 90%
+        width: 100%
     }
   }
 
-@media (max-width: 1000px) {
+@media (max-width: 800px) {
     .site-header, .page-content {
         width: 90%
     }
